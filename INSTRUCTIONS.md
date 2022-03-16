@@ -1,6 +1,6 @@
 # Instruktioner
 
-## Skapa nytt repo fron template
+## Skapa nytt repo från template
 
 Skapa ett nytt privat repository på GitHub utifrån det här templaterepositoryt genom att trycka på "Use this template"
 
